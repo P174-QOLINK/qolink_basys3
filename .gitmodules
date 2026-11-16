@@ -1,0 +1,3 @@
+[submodule "submodules/qolink"]
+	path = submodules/qolink
+	url = https://github.com/P174-QOLINK/qolink
